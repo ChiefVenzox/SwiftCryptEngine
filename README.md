@@ -34,7 +34,7 @@ To clone and run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/SwiftCryptEngine.git
+git clone https://github.com/ChiefVenzox/SwiftCryptEngine.git
 
 # Navigate into the project folder
 cd SwiftCryptEngine
